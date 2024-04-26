@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 50px auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd;
+}
+
+.aksi {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aksi a {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-right: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.aksi a:hover {
+    background-color: #0056b3;
+}
+
+/* Tombol "Kembali" */
+.back-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px; /* Padding */
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+/* Efek hover untuk tombol "Kembali" */
+.back-btn:hover {
+    background-color: #000000; 
+}
+
+/* Tombol "Tambah Data Pengguna Baru" */
+.add-btn {
+    background-color: #008CBA; 
+    color: white; 
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px; 
+    cursor: pointer; 
+    transition: background-color 0.3s;
+}
+
+/* Efek hover untuk tombol "Tambah Data Pengguna Baru" */
+.add-btn:hover {
+    background-color: #000000; 
+}
