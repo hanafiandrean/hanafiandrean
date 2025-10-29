@@ -1,5 +1,7 @@
 <!-- Wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F9,100:8B5CF6&height=220&section=header&text=Hanafi%20Andreanatha%20&fontSize=42&fontAlign=50&fontAlignY=35&fontColor=ffffff" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&center=true&vCenter=true&width=1000&lines=Hello+friend...;Hanafi+(moscat)+%7C+Backend+%2B+Pentest+%2B+CTF;Java+%7C+Python+%7C+PHP(Laravel)+%7C+Node.js+%7C+MySQL;Nuclei%2C+Burp%2C+ZAP%2C+Nmap%2C+SQLMap%2C+Hashcat" />
+</p>
 
 <!-- Typing intro -->
 <p align="center">
