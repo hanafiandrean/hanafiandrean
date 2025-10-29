@@ -1,9 +1,0 @@
-name: 📈 Update Activity Graph Cache
-on:
-  schedule: [{cron: "30 1 * * *"}]   # harian (UTC 01:30)
-  workflow_dispatch:
-jobs:
-  refresh:
-    runs-on: ubuntu-latest
-    steps:
-      - run: 'echo "noop (service pulls data from GitHub API automatically)"'
