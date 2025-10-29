@@ -1,5 +1,5 @@
 <!-- Wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F9,100:8B5CF6&height=220&section=header&text=Hanafi&20Andreanatha%20&fontSize=42&fontAlign=50&fontAlignY=35&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F9,100:8B5CF6&height=220&section=header&text=Hanafi%20Andreanatha%20&fontSize=42&fontAlign=50&fontAlignY=35&fontColor=ffffff" width="100%"/>
 
 <!-- Typing intro -->
 <p align="center">
