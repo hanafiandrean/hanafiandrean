@@ -17,7 +17,7 @@
 ### 👋 About
 - **Back-end:** Java, Python, PHP (Laravel), Node.js — **DB:** MySQL — **API:** Postman  
 - **Cyber-sec:** Pentest & bug hunting (SSTI, SQLi, XSS, misconfig, auth, RCE, JWT flaws, Clickjacking, SSRF, IDOR, Password reset/verification flow flaws)  
-- **Front-end enthusiast:** HTML, CSS, JS, Figma (untuk dashboard/tools ofensif)
+- **Front-end enthusiast:** HTML, CSS, JS, Figma 
 
 ---
 
