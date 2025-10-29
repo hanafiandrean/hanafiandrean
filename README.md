@@ -43,14 +43,13 @@
 
 ### 🕷️ Activity & Animations
 <p align="center">
-  <!-- Snake -->
   <img src="https://raw.githubusercontent.com/hanafiandrean/hanafiandrean/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <p align="center">
-  <!-- Activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanafiandrean&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+
 
 <!-- Wave footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6EE7F9&height=140&section=footer" width="100%"/>
