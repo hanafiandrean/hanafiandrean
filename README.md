@@ -1,10 +1,9 @@
 <!-- Wave header -->
+<!-- Minimal wave separator -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=160&section=header&text=Hanafi%20Andrean%20(moscat)&fontSize=30&fontAlign=50&fontAlignY=28&fontColor=E5E7EB&desc=Backend%20•%20Pentest%20•%20CTF%20Enthusiast&descAlign=50&descAlignY=55&descSize=14&descColor=A7B4C0"
-    width="100%" alt="header"
-/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=90&section=header&fontColor=ffffff" width="100%" alt="">
 </p>
+
 
 
 <!-- Typing intro -->
