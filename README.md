@@ -29,13 +29,6 @@
 
 ---
 
-### 🚀 Highlighted Projects
-- **API-SEKOLAH** — Node.js REST API + Swagger, JWT, best practices.  
-- **ssti-lab** — Playground SSTI (Jinja/Nunjucks/EJS) + payloads.  
-- **nuclei-templates-id** — Template Nuclei umum untuk target Indo.  
-> Pin project di profile (Customize your pins)
-
----
 
 ### 📊 Stats
 <p align="center">
