@@ -1,7 +1,11 @@
 <!-- Wave header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&center=true&vCenter=true&width=1000&lines=Hello+friend...;Hanafi+(moscat)+%7C+Backend+%2B+Pentest+%2B+CTF;Java+%7C+Python+%7C+PHP(Laravel)+%7C+Node.js+%7C+MySQL;Nuclei%2C+Burp%2C+ZAP%2C+Nmap%2C+SQLMap%2C+Hashcat" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:9333EA&height=160&section=header&text=Hanafi%20Andrean%20(moscat)&fontSize=30&fontAlign=50&fontAlignY=28&fontColor=E5E7EB&desc=Backend%20•%20Pentest%20•%20CTF%20Enthusiast&descAlign=50&descAlignY=55&descSize=14&descColor=A7B4C0"
+    width="100%" alt="header"
+/>
 </p>
+
 
 <!-- Typing intro -->
 <p align="center">
