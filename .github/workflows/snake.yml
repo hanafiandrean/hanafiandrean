@@ -1,0 +1,20 @@
+name: 🐍 Generate Snake
+on:
+  schedule: [{cron: "0 */12 * * *"}]  # tiap 12 jam (UTC)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: hanafiandrean
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update snake"
+          file_pattern: output/github-contribution-grid-snake.svg
