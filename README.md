@@ -15,6 +15,10 @@
 </p>
 
 ### 👋 About
+
+**Pelajar SMK Telkom Sidoarjo (XI – SIJA) dengan minat utama backend dan cyber security. Aktif sebagai bug bounty hunter dan CTF player, serta memiliki keterampilan front-end development untuk kebutuhan antarmuka.**
+
+### ⚙️ SKILL
 - **Back-end:** Java, Python, PHP (Laravel), Node.js — **DB:** MySQL — **API:** Postman  
 - **Cyber-sec:** Pentest & bug hunting (SSTI, SQLi, XSS, misconfig, auth, RCE, JWT flaws, Clickjacking, SSRF, IDOR, Password reset/verification flow flaws)  
 - **Front-end enthusiast:** HTML, CSS, JS, Figma 
