@@ -1,10 +1,7 @@
 <!-- Wave header -->
-<!-- Minimal wave separator -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=90&section=header&fontColor=ffffff" width="100%" alt="">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:8B5CF6&height=150&section=header&text=Hanafi%20Andrean&fontSize=28&fontAlignY=32&fontColor=E5E7EB" width="100%" />
 </p>
-
-
 
 <!-- Typing intro -->
 <p align="center">
