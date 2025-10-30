@@ -1,6 +1,6 @@
 <!-- Wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:8B5CF6&height=200&section=header&text=Muhammad%20Hanafi%20Andreanatha%20Wijaya&fontSize=28&fontAlignY=32&fontColor=E5E7EB" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:8B5CF6&height=200&section=header&text=Muhammad%20Hanafi%20Andreanathaa%20Wijaya&fontSize=28&fontAlignY=32&fontColor=E5E7EB" width="100%" />
 </p>
 
 <!-- Typing intro -->
