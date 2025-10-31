@@ -12,22 +12,15 @@
   <rect width="1200" height="260" fill="url(#g)"/>
 
   <!-- title -->
-  <g font-family="Inter,Segoe UI,Roboto,Arial" text-anchor="middle">
-    <text x="600" y="120" font-size="34" fill="#e5e7eb" font-weight="700">
-      Muhammad Hanafi Andreanatha Wijaya
-    </text>
-    <text x="600" y="155" font-size="16" fill="#93c5fd">
-      Java • Python • PHP (Laravel) • Node.js • MySQL • CTF & Bug Bounty
-    </text>
-  </g>
+  <text x="600" y="140" font-size="40" font-family="Inter,Segoe UI,Roboto,Arial"
+        text-anchor="middle" fill="#e5e7eb" font-weight="700">Drxxaan.</text>
 
   <!-- subtle ground wave -->
   <path d="M0,210 C200,190 400,230 600,210 C800,190 1000,230 1200,210 L1200,260 L0,260 Z"
         fill="#0b1220" opacity="0.65"/>
 
-  <!-- rain drops -->
+  <!-- rain -->
   <g stroke="#60a5fa" stroke-width="1.2" stroke-linecap="round" filter="url(#blur)" opacity="0.85">
-    <!-- Duplikat 24 tetes dengan waktu & posisi berbeda -->
     <line x1="80"  y1="-20" x2="80"  y2="10">
       <animate attributeName="y1" from="-20" to="260" dur="2.6s" repeatCount="indefinite" begin="0s"/>
       <animate attributeName="y2" from="10"  to="290" dur="2.6s" repeatCount="indefinite" begin="0s"/>
