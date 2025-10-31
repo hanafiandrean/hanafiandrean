@@ -1,4 +1,4 @@
-<!-- Wave header -->
+<!-- header -->
 <p align="center">
   <img src="./assets/rain-header.svg" width="125%" />
 </p>
@@ -7,12 +7,11 @@
   <a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz" target="_blank">
     <img src="https://img.shields.io/badge/♪%20Listen%20-%20Stan%20(Eminem%20x%20Dido)-1DB954?logo=spotify&labelColor=0a0a0a" />
   </a>
-  <a href="[https://www.youtube.com/watch?v=gOMhN-hfMtY](https://youtu.be/g8QSD9oVVKs?si=g2m9f2tZ4LwP4Vlm)" target="_blank">
+  <a href="https://www.youtube.com/watch?v=gOMhN-hfMtY" target="_blank">
     <img src="https://img.shields.io/badge/▶%20Watch%20on%20YouTube-FF0000?logo=youtube&labelColor=0a0a0a" />
   </a>
 </p>
 
-</p>
 
 <!-- Typing intro -->
 <p align="center">
