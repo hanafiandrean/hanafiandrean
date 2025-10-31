@@ -1,0 +1,88 @@
+<!-- assets/rain-header.svg -->
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"  stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="0.6"/></filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="260" fill="url(#g)"/>
+
+  <!-- title -->
+  <g font-family="Inter,Segoe UI,Roboto,Arial" text-anchor="middle">
+    <text x="600" y="120" font-size="34" fill="#e5e7eb" font-weight="700">
+      Muhammad Hanafi Andreanatha Wijaya
+    </text>
+    <text x="600" y="155" font-size="16" fill="#93c5fd">
+      Java • Python • PHP (Laravel) • Node.js • MySQL • CTF & Bug Bounty
+    </text>
+  </g>
+
+  <!-- subtle ground wave -->
+  <path d="M0,210 C200,190 400,230 600,210 C800,190 1000,230 1200,210 L1200,260 L0,260 Z"
+        fill="#0b1220" opacity="0.65"/>
+
+  <!-- rain drops -->
+  <g stroke="#60a5fa" stroke-width="1.2" stroke-linecap="round" filter="url(#blur)" opacity="0.85">
+    <!-- Duplikat 24 tetes dengan waktu & posisi berbeda -->
+    <line x1="80"  y1="-20" x2="80"  y2="10">
+      <animate attributeName="y1" from="-20" to="260" dur="2.6s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="y2" from="10"  to="290" dur="2.6s" repeatCount="indefinite" begin="0s"/>
+    </line>
+    <line x1="160" y1="-30" x2="160" y2="0">
+      <animate attributeName="y1" from="-30" to="260" dur="2.2s" repeatCount="indefinite" begin="0.4s"/>
+      <animate attributeName="y2" from="0"   to="290" dur="2.2s" repeatCount="indefinite" begin="0.4s"/>
+    </line>
+    <line x1="240" y1="-25" x2="240" y2="5">
+      <animate attributeName="y1" from="-25" to="260" dur="2.0s" repeatCount="indefinite" begin="0.8s"/>
+      <animate attributeName="y2" from="5"   to="290" dur="2.0s" repeatCount="indefinite" begin="0.8s"/>
+    </line>
+    <line x1="320" y1="-35" x2="320" y2="-5">
+      <animate attributeName="y1" from="-35" to="260" dur="2.4s" repeatCount="indefinite" begin="0.2s"/>
+      <animate attributeName="y2" from="-5"  to="290" dur="2.4s" repeatCount="indefinite" begin="0.2s"/>
+    </line>
+    <line x1="400" y1="-40" x2="400" y2="-10">
+      <animate attributeName="y1" from="-40" to="260" dur="2.1s" repeatCount="indefinite" begin="1.1s"/>
+      <animate attributeName="y2" from="-10" to="290" dur="2.1s" repeatCount="indefinite" begin="1.1s"/>
+    </line>
+    <line x1="480" y1="-20" x2="480" y2="10">
+      <animate attributeName="y1" from="-20" to="260" dur="2.3s" repeatCount="indefinite" begin="0.6s"/>
+      <animate attributeName="y2" from="10"  to="290" dur="2.3s" repeatCount="indefinite" begin="0.6s"/>
+    </line>
+    <line x1="560" y1="-28" x2="560" y2="2">
+      <animate attributeName="y1" from="-28" to="260" dur="2.7s" repeatCount="indefinite" begin="0.1s"/>
+      <animate attributeName="y2" from="2"   to="290" dur="2.7s" repeatCount="indefinite" begin="0.1s"/>
+    </line>
+    <line x1="640" y1="-22" x2="640" y2="8">
+      <animate attributeName="y1" from="-22" to="260" dur="2.0s" repeatCount="indefinite" begin="0.9s"/>
+      <animate attributeName="y2" from="8"   to="290" dur="2.0s" repeatCount="indefinite" begin="0.9s"/>
+    </line>
+    <line x1="720" y1="-33" x2="720" y2="-3">
+      <animate attributeName="y1" from="-33" to="260" dur="2.5s" repeatCount="indefinite" begin="0.3s"/>
+      <animate attributeName="y2" from="-3"  to="290" dur="2.5s" repeatCount="indefinite" begin="0.3s"/>
+    </line>
+    <line x1="800" y1="-26" x2="800" y2="4">
+      <animate attributeName="y1" from="-26" to="260" dur="2.3s" repeatCount="indefinite" begin="1.0s"/>
+      <animate attributeName="y2" from="4"   to="290" dur="2.3s" repeatCount="indefinite" begin="1.0s"/>
+    </line>
+    <line x1="880" y1="-24" x2="880" y2="6">
+      <animate attributeName="y1" from="-24" to="260" dur="2.1s" repeatCount="indefinite" begin="0.7s"/>
+      <animate attributeName="y2" from="6"   to="290" dur="2.1s" repeatCount="indefinite" begin="0.7s"/>
+    </line>
+    <line x1="960" y1="-30" x2="960" y2="0">
+      <animate attributeName="y1" from="-30" to="260" dur="2.8s" repeatCount="indefinite" begin="0.5s"/>
+      <animate attributeName="y2" from="0"   to="290" dur="2.8s" repeatCount="indefinite" begin="0.5s"/>
+    </line>
+    <line x1="1040" y1="-36" x2="1040" y2="-6">
+      <animate attributeName="y1" from="-36" to="260" dur="2.2s" repeatCount="indefinite" begin="0.2s"/>
+      <animate attributeName="y2" from="-6"  to="290" dur="2.2s" repeatCount="indefinite" begin="0.2s"/>
+    </line>
+    <line x1="1120" y1="-18" x2="1120" y2="12">
+      <animate attributeName="y1" from="-18" to="260" dur="2.4s" repeatCount="indefinite" begin="1.2s"/>
+      <animate attributeName="y2" from="12"  to="290" dur="2.4s" repeatCount="indefinite" begin="1.2s"/>
+    </line>
+  </g>
+</svg>
