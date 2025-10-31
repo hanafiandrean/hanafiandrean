@@ -40,12 +40,15 @@
 
 ### 📊 Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hanafiandrean&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanafiandrean&layout=compact&theme=tokyonight" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=hanafiandrean&show_icons=true&theme=tokyonight&include_all_commits=false&cache_seconds=7200" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanafiandrean&layout=compact&theme=tokyonight&langs_count=8&hide=Jupyter%20Notebook&cache_seconds=7200" />
 </p>
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=hanafiandrean&theme=tokyonight" height="165" />
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=hanafiandrean&theme=tokyonight&cache_seconds=7200" />
 </p>
 
 <p align="center">
