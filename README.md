@@ -1,6 +1,6 @@
 <!-- Wave header -->
 <p align="center">
-  <img src="./assets/rain-header.svg" width="100%" />
+  <img src="./assets/rain-header.svg" width="125%" />
 </p>
 
 <p align="left">
