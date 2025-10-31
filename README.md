@@ -1,7 +1,8 @@
 <!-- Wave header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hanafiandrean/hanafiandrean/main/assets/rain-header.svg" width="100%" />
-  <p align="center">
+  <img src="./assets/rain-header.svg" width="100%" />
+</p>
+
 <p align="left">
   <a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz" target="_blank">
     <img src="https://img.shields.io/badge/♪%20Listen%20-%20Stan%20(Eminem%20x%20Dido)-1DB954?logo=spotify&labelColor=0a0a0a" />
