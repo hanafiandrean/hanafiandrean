@@ -1,6 +1,16 @@
 <!-- Wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:8B5CF6&height=200&section=header&text=Muhammad%20Hanafi%20Andreanatha%20Wijaya&fontSize=28&fontAlignY=32&fontColor=E5E7EB" width="100%" />
+  <img src="https://raw.githubusercontent.com/hanafiandrean/hanafiandrean/main/assets/rain-header.svg" width="100%" />
+  <p align="center">
+<p align="left">
+  <a href="https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz" target="_blank">
+    <img src="https://img.shields.io/badge/♪%20Listen%20-%20Stan%20(Eminem%20x%20Dido)-1DB954?logo=spotify&labelColor=0a0a0a" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=gOMhN-hfMtY" target="_blank">
+    <img src="https://img.shields.io/badge/▶%20Watch%20on%20YouTube-FF0000?logo=youtube&labelColor=0a0a0a" />
+  </a>
+</p>
+
 </p>
 
 <!-- Typing intro -->
