@@ -39,7 +39,7 @@
 
 ### 🧰 Stack & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,php,laravel,nodejs,react,mysql,postman,html,css,js,figma,redhat,ubuntu,kali,linux,docker,git,wireshark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,laravel,nodejs,react,mysql,postman,html,css,js,figma,redhat,ubuntu,kali,linux,docker,git&perline=9" />
 </p>
 
 **Pentest kit:**  
