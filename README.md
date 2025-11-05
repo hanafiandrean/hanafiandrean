@@ -58,7 +58,7 @@
 
 <p align="center">
   <img height="165"
-       src="https://streak-stats.demolab.com?user=hanafiandrean&theme=tokyonight&cache_seconds=7200" />
+       src="https://streak-stats.demolab.com?user=hanafiandrean&theme=tokyonight&cache_seconds=7100" />
 </p>
 
 <p align="center">
