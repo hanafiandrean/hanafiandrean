@@ -24,7 +24,7 @@
   <img alt="focus" src="https://img.shields.io/badge/CTF-Active%20player-10B981?style=for-the-badge">
 </p>
 
-### 👋 
+### 👋 About
 
 **Student at SMK Telkom Sidoarjo (Grade XII – SIJA) with a primary interest in backend development and cybersecurity. An active bug bounty hunter and CTF player, with front-end development skills for building user interfaces.**
 
