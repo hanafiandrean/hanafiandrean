@@ -15,7 +15,7 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&center=true&vCenter=true&width=1000&lines=Backend%20Engineer%20%7C%20Pentester%20%7C%20Bug%20Hunter%20%7C%20CTF%20Enthusiast;Java%20%E2%80%A2%20Python%20%E2%80%A2%20PHP(Laravel)%20%E2%80%A2%20Node.js%20%7C%20MySQL;Cybersec%20Toolkit:%20Nuclei%2C%20Burp%2C%20ZAP%2C%20Nmap%2C%20Metasploit%2C%20SQLMap%2C%20Hashcat"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&center=true&vCenter=true&width=1000&lines=Backend%20Engineer%20%7C%20Pentester%20%7C%20Bug%20Hunter%20%7C%20CTF%20Enthusiast;Java%20%E2%80%A2%20Python%20%E2%80%A2%20PHP(Laravel)%20%E2%80%A2%20Node.js%20%7C%20MySQL;Pentest%20Toolkit:%20Nuclei%2C%20Burp%2C%20ZAP%2C%20Nmap%2C%20Metasploit%2C%20SQLMap%2C%20Hashcat"/>
 </p>
 
 <p align="center">
