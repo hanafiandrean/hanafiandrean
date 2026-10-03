@@ -29,10 +29,10 @@
 **Student at SMK Telkom Sidoarjo (Grade XII – SIJA) with a primary interest in backend development and cybersecurity. An active bug bounty hunter and CTF player, with front-end development skills for building user interfaces.**
 
 ### ⚙️ Skills
-- **Back-end:** Java, Python, PHP (Laravel), — **DB:** MySQL — **API:** Postman  
+- **Back-end:** Java, Python, PHP (Laravel), - **DB:** MySQL - **API:** Postman  
 - **Cyber-sec:** Pentest & bug hunting (SSTI, SQLi, XSS, misconfig, auth, RCE, JWT flaws, Clickjacking, SSRF, IDOR, Password reset/verification flow flaws)  
 - **Front-end enthusiast:** HTML, CSS, JS, Figma 
-- **CTF — Roles:** Web Exploitation (primary), Forensics, OSINT, Cryptography (support)
+- **CTF - Roles:** Web Exploitation (primary), Forensics, OSINT, Cryptography (support)
 
 
 ---
